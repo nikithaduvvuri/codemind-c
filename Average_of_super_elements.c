@@ -33,5 +33,4 @@ int main()
         avg=float(sum)/f;
         printf("%.2f",avg);
     }
-    
 }
