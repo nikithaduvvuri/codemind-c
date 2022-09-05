@@ -10,7 +10,6 @@ int main()
         {
             c++;
         }
-        
     }
     if(c==n)
     printf("True");
