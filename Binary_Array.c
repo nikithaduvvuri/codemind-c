@@ -8,7 +8,6 @@ int main()
         scanf("%d",&ar[i]);
         if(ar[i]==0||ar[i]==1)
         f++;
-        
     }
     if(f==n)
     printf("True");
