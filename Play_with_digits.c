@@ -7,7 +7,6 @@ int fun(int n)
         d=n%10;
         n=n/10;
         sum+=d;
-        
     }
     return sum;
 }
